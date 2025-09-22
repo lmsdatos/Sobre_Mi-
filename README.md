@@ -1,4 +1,4 @@
-# 👋 Hola, soy Nelly Mariela (Mari)  
+# 👋 Hola, soy  Mariela (LMS Datos & Conexion)  
 
 ## 🇪🇸 Sobre mí  
 
