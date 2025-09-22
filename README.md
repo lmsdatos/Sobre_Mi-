@@ -42,7 +42,7 @@ In recent years, I have expanded my expertise into **data analytics and ERP inte
 
 - **Languages & Tools:** SQL | Python | Excel | Power BI  
 - **Business Tools:** ERP Systems | Process Optimization | Data Analytics  
-- **Exploring:** Artificial Intelligence & Machine Learning applications in business  
+- **Exploring:** Artificial Intelligence applications in business  
 
 ---
 
