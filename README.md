@@ -48,5 +48,5 @@ In recent years, I have expanded my expertise into **data analytics and ERP inte
 
 ## 📫 Contacto | Contact  
 
-- 🌐 LinkedIn: [linkedin.com/in/nellymarielasanchez](https://linkedin.com/in/nellymarielasanchez)  
-- ✉️ Email: [tu-email-aqui]  
+- 🌐 LinkedIn: [https://www.linkedin.com/in/lmsdatos/)  
+- ✉️ Email: [lmsdatos@gmail.com]  
